@@ -1,0 +1,7 @@
+Olá, me chamo Dhiego Emmmanuel, sou estudante de Engenharia de Software, tenho como principal estudos na área de back-end que é o caminho da programação que desejo seguir. 
+
+Atualmente tenho estudos nas linguagens: C# (Curso da plataforma DIO de .NET), C/C++(Graduação Engenharia de Software), Python (Curso Escola do Futuro Goiás) e JavaScript. Mas sigo me aprofundado somente em C# no momento.
+
+Certificados em TI:
+Formação de Lógica de Programação (DIO)
+Computação em nuvem | AWS Discovery Day
